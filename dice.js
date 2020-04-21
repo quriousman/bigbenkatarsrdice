@@ -9,11 +9,11 @@ document.querySelector(".img1").setAttribute("src", randomImageSource1);
 document.querySelector(".img2").setAttribute("src", randomImageSource2);
 
 if (randomNumber1 > randomNumber2){
-  document.querySelector("h1").innerHTML = "Bigben Win";
+  document.querySelector("h1").innerHTML = "🍟 Bigben Win 🥓";
 }
 else if (randomNumber1 < randomNumber2){
-  document.querySelector("h1").innerHTML = "Katarsr Win";
+  document.querySelector("h1").innerHTML = "🥐 Katarsr Win 🥐";
 }
 else {
-  document.querySelector("h1").innerHTML = "Draw";
+  document.querySelector("h1").innerHTML = "Draw 🍳";
 }
