@@ -16,15 +16,15 @@ body {
 
 h1 {
   margin: 30px;
-  font-family: 'Lobster', cursive;
+  font-family: 'Abril Fatface', cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 8rem;
-  color: #4ECCA3;
+  font-size: 4rem;
+  color: #FFCC33;
 }
 
 p {
   font-size: 2rem;
-  color: #4ECCA3;
+  color: #FFCC33;
   font-family: 'Indie Flower', cursive;
 }
 
